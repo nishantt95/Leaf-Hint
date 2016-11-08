@@ -1,0 +1,23 @@
+<html>
+<body>
+<?php
+include("tracking.html");
+
+?>
+<center><fieldset style='background:#000000;color:#ffffff;'>In order to remove your data from this site we need your<br>confirmation that this is actually you who is removing his/her data.<br>Here you have to upload 
+your ID Card image and after confirmation we will remove your data.</fieldset>
+</center>
+<fieldset style='height:180px;width:250px;position:absolute;margin-top:150px;margin-left:550px;background-color:#1C3892;color:#ffffff;font-size:15px'>
+<form method='post' action='optout.php' enctype='multipart/form-data'>
+<b>Upload your ID card image below:</b><br><br>
+Sap Id:<input type='text' name='sapid' autocomplete='off' required><br><br>
+<input type='file' name='file' required><br><br>
+<input type='submit' value='upload'>
+</fieldset>
+</form>
+<fieldset style='position:absolute;background:#1C3892;bottom:1px;width:1320px;color:#ffffff;'><a href='http://leafhint.bl.ee/'style='color:#ffffff;text-decoration: none'>Search Again</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href='upload.html'style='color:#ffffff;text-decoration: none'>Change Photo</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href='optout.html'style='color:#ffffff;text-decoration: none'>Don't want to be searched</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href='rank.html'style='color:#ffffff;text-decoration: none'>My Search Count</a>
+</fieldset>
+</body>
+</html>
