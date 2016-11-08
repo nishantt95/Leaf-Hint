@@ -8,7 +8,7 @@ This application is built for UPES students so they can understand it well. Othe
 
 ## Bugs and Issues
 
-Well this appilication is working without any error but there can be bugs and errors (Which is obviously not yet identified). Further modeling this application according to your requirement may result in bugs and issues. 
+Well this appilication is working without any error but there can be bugs and errors (Which is obviously not yet identified).
 
 ## Creator
 
