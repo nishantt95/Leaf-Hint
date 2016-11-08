@@ -14,6 +14,9 @@ Well this appilication is working without any error but there can be bugs and er
 
 Leaf Hint was created by **Nishant Thapliyal**.
 
+* [Linkedin](https://www.linkedin.com/in/nishant-thapliyal-90607898)
+* [HackerEarth](https://www.hackerearth.com/@nishant.thapliyal)
+
 ## Copyright and License
 
 Code released under the [Apache 2.0](https://github.com/nishantt95/Leaf-Hint/blob/master/LICENSE) license.
