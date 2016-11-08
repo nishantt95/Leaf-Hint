@@ -1,0 +1,2 @@
+# Leaf-Hint
+Leaf Hint is a UPES student search portal where students can search for the information related to their friends or some unknown student. They can post the any kind of information and it will be available to all the students. Unique feature of this website is that you can connect with any one who is a part of leaf hint so each and every member is your friend and you can even block people. You can have one on one conversation through chats. This application is currently live and hosted under the domain name http://leafhint.bl.ee/
